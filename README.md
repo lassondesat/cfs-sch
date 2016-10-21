@@ -1,6 +1,6 @@
 # cFS: Scheduler
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-sch.svg)](https://github.com/yusend/cfs-sch/releases)
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-sch.svg)](https://github.com/lassondesat/cfs-sch/releases)
 
 * [Original README](cfs-sch-app-OSS-readme.txt)
 
@@ -31,5 +31,5 @@ within each Major Frame) is also configurable.
 
 * https://sourceforge.net/projects/cfs-sch/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
